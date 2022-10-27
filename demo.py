@@ -1,5 +1,4 @@
-from urllib.parse import urldefrag
-
+# python program to calculate factorial of a number
 
 userinput = int(input("enter a number : "))
 if userinput < 0:
